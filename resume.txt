@@ -4,8 +4,20 @@ Email address: muzammilsyed270300@gmail.com
 Linkedin Profile: www.linkedin.com/in/muzammil-hasan-5279b61b8
 Medium profile: www.medium.com/@muzammilsyed270300
 
+Objective:
+  Pursue a leadership role in software engineering within the IT sector, leveraging extensive experience and expertise to drive innovation and excellence.
+
+Profile Summary:
+  Accomplished Frontend Developer with almost 5 years of hands-on experience in crafting captivating user interfaces. Proficient in a diverse array of technologies and frameworks, with expertise in HTML, CSS, JavaScript, and TypeScript. Skilled in leveraging modern frontend frameworks like React, Next.js, and Remix.js to develop scalable and maintainable web applications.
+
+  Possessing a strong sense of design, adept at transforming wireframes and mockups into visually stunning UIs using tools such as Figma, AdobeXD, and Eraser.io. Collaborative team player with a proven track record of effectively utilizing project management tools like Jira, Obsidian, and version control systems like Git, GitHub, and Bitbucket to streamline project workflows.
+
+  Experienced in optimizing frontend performance through efficient bundling using Webpack and Turbopack. Comfortable working in diverse development environments, including Vim, Neovim, VsCode, and Windows Subsystem for Linux (WSL).
+
+  Currently expanding proficiency in backend technologies like Node.js, Express.js, and MongoDB, while also delving into Go. Continuously striving to enhance skill sets and stay abreast of emerging trends in frontend development to deliver innovative solutions.
+
 Education: 
-  Computer Applications, Business Accounting And Multilingual DTP Dilploma - National Institute Of Electronics & Information Technology
+  Computer Applications, Business Accounting And Multilingual DTP Diploma - National Institute Of Electronics & Information Technology
   Class XIIth - CBSE
   Class Xth - CBSE
 
@@ -91,6 +103,15 @@ Projects:
     Backend: NodeJs (NestJs)
     Technologies: Typescript, ReactJs, NextJs, TailwindCss, Headless UI, Redux
     Description: Portal for students to take online video courses and books.
+
+  Blu South
+    Role: UI developer
+    Frontend: Vanilla JavaScript (Wordpress)
+    Backend: PHP
+    Technologies: HTML, TailwindCss, JQuery, Wordpress
+    Description: Provide rental house in charlotte.
+    project url: www.blusouthtownhomes.com
+
 
 Work Experience:
   TechChefz Digital Pvt. Ltd.
