@@ -34,7 +34,16 @@ Technical Skills:
   Collaboration Tools: Jira, Obsidian, Git, GitHub, Bitbucket
   Bundlers: Webpack, Turbopack
   Development Tools: Vim, Neovim, VsCode, WSL
-  Others: NodeJs, ExpressJS, JSON, Go, MongoDB
+  Others: NodeJs, ExpressJS, MongoDB, JSON, Go
+
+Soft Skills: 
+  Problem-Solving Expertise
+  Quick Learner
+  Adaptability
+  Independent and Efficient 
+  Effective Communication 
+  Coordination
+  Positive Attitude
 
 Projects:
   Royal Enfield - Ride Sure
@@ -88,17 +97,29 @@ Work Experience:
   Designation: Senior Associate Technology
   Working Since: Oct'2022 to Present 
   Responsibilities: 
-   --- To be added ---
+    Managing and mentoring a team of developers, fostering a collaborative work environment.
+    Overseeing API integration, ensuring smooth communication between systems.
+    Optimizing application performance for faster and more efficient user experiences.
+    Enhancing visual styles using SCSS for a consistent and appealing user experience.
+    Collaborating with Backend and DevOps team for seamless integration and deployment.
+    Developed and maintain scalable and efficient software solutions to meet business requirements, ensuring high performance and reliability.
+    Collaborated with cross-functional teams to analyze user needs, design system architecture, and implement innovative features and functionalities.
 
   InfinityPillars Pvt. Ltd.
   Designation: ReactJs Developer
   Working Since: Apr'2022 to Sep'2022
   Responsibilities: 
-   --- To be added ---
+    Creating reusable UI components for intuitive interfaces.
+    Integrating APIs and managing data flow effectively.
+    Enhancing visual styles using Tailwind CSS for a consistent and appealing user experience.
+    Assisted in the development and enhancement of software solutions, contributing to the overall success of projects.
+    Collaborated with senior engineers to troubleshoot technical issues, implement fixes, and optimize software performance.
 
   Redoxbird Pvt. Ltd.
   Designation: UI Developer
   Working Since: Nov'2020 to Apr'2022
   Responsibilities: 
-   --- To be added ---
-
+    Develop responsive layouts using HTML, CSS, and JavaScript frameworks.
+    Optimize websites for search engines by implementing SEO best practices.
+    Improved overall website accessibility.
+    Assisted in seamless wordpress integration.
