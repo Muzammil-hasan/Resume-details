@@ -1,0 +1,104 @@
+Name: Muzammil Hasan
+Contact no: +91 9717931398
+Email address: muzammilsyed270300@gmail.com
+Linkedin Profile: www.linkedin.com/in/muzammil-hasan-5279b61b8
+Medium profile: www.medium.com/@muzammilsyed270300
+
+Education: 
+  Computer Applications, Business Accounting And Multilingual DTP Dilploma - National Institute Of Electronics & Information Technology
+  Class XIIth - CBSE
+  Class Xth - CBSE
+
+Core competencies:
+  Proficiency in HTML, CSS, JavaScript.
+  Mastery of frontend frameworks (React, Angular, Vue.js).
+  UI/UX design principles and tools.
+  Integration with backend services via APIs.
+  Version control using Git.
+  Page optimization techniques.
+  Bug tracking and debugging skills.
+  Responsive web design principles.
+  Cross-browser compatibility testing.
+  Task runners and build tools.
+  Leadership and collaboration skills.
+  CI/CD pipelines knowledge.
+  Web accessibility standards understanding.
+  Performance monitoring and analytics.
+  Security best practices awareness.
+  Dockerization for containerized development and deployment.
+
+Technical Skills:
+  Languages: HTML, CSS, JavaScript, Typescript
+  Frameworks: React, NextJs, RemixJs, TailwindCss, Sass
+  Design Tools, Figma, AdobeXD, Eraser.io
+  Collaboration Tools: Jira, Obsidian, Git, GitHub, Bitbucket
+  Bundlers: Webpack, Turbopack
+  Development Tools: Vim, Neovim, VsCode, WSL
+  Others: NodeJs, ExpressJS, JSON, Go, MongoDB
+
+Projects:
+  Royal Enfield - Ride Sure
+    Role: Frontend Team Lead
+    Frontend: ReactJs (NextJs)
+    Backend: NodeJs (ExpressJS)
+    Technologies: ReactJs, NextJs, Scss, Headless UI, Redux, Firebase, Docker
+    Description: Website use for Buying warranty and service packages online.
+    project url: www.royalenfield.com/in/en/service/ride-sure
+
+  Royal Enfield - RE Direct Website and Dashboard
+    Role: Frontend Team Lead
+    Frontend: ReactJs (NextJs)
+    Backend: NodeJs (ExpressJS)
+    Technologies: ReactJs, NextJs, Scss, Material UI, Zustand, Firebase, Docker
+    Description: Used for booking vehicles and tracking, enabling users to upload and verify documents.
+    project url: www.royalenfield.com/re-direct/dashboard
+
+  Club Neon Dashboard:
+    Role: Frontend Team Lead
+    Frontend: ReactJs (NextJs)
+    Backend: NodeJs (ExpressJS)
+    Technologies: Typescript, ReactJs, NextJs, Scss, Headless UI, Radix UI, Redux, Firebase, Docker
+    Description: Dashboard for managing leads, accounts, bookings, subscriptions, vouchers, and customer feedback.
+  
+  Y-Axis:
+    Role: Frontend Developer
+    Frontend: ReactJs (NextJs)
+    Backend: NodeJs (ExpressJS)
+    Technologies: ReactJs, NextJs, Scss, Material UI, Zustand, Firebase, Docker
+    Description: Used for Visa Consultant and Immigration firm.
+    project url: www.y-axis.com
+
+  Altor:
+    Role: UI developer
+    Frontend: Vanilla JavaScript (Wordpress)
+    Backend: PHP
+    Technologies: HTML, TailwindCss, JQuery, Wordpress
+    Description: Provides Medical Professional Liability Insurance for Physicians, Medical Providers and Facilities.
+    project url: www.altorntl.com
+
+  Ace Education:
+    Role: Frontend Developer
+    Frontend: ReactJs (NextJs)
+    Backend: NodeJs (NestJs)
+    Technologies: Typescript, ReactJs, NextJs, TailwindCss, Headless UI, Redux
+    Description: Portal for students to take online video courses and books.
+
+Work Experience:
+  TechChefz Digital Pvt. Ltd.
+  Designation: Senior Associate Technology
+  Working Since: Oct'2022 to Present 
+  Responsibilities: 
+   --- To be added ---
+
+  InfinityPillars Pvt. Ltd.
+  Designation: ReactJs Developer
+  Working Since: Apr'2022 to Sep'2022
+  Responsibilities: 
+   --- To be added ---
+
+  Redoxbird Pvt. Ltd.
+  Designation: UI Developer
+  Working Since: Nov'2020 to Apr'2022
+  Responsibilities: 
+   --- To be added ---
+
