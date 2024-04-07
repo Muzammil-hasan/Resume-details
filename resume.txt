@@ -2,7 +2,7 @@ Name: Muzammil Hasan
 Contact no: +91 9717931398
 Email address: muzammilsyed270300@gmail.com
 Linkedin Profile: www.linkedin.com/in/muzammil-hasan-5279b61b8
-Medium profile: www.medium.com/@muzammilsyed270300
+Blog: www.medium.com/@muzammilsyed270300
 
 Objective:
   Pursue a leadership role in software engineering within the IT sector, leveraging extensive experience and expertise to drive innovation and excellence.
@@ -144,3 +144,14 @@ Work Experience:
     Optimize websites for search engines by implementing SEO best practices.
     Improved overall website accessibility.
     Assisted in seamless wordpress integration.
+
+  Languages:
+    English & Hindi
+
+  Certifications: 
+    Frontend Development by Freecodecamp - Oct'2020
+    Responsive web design by Freecodecamp - Sep'2020
+
+  Awards:
+    Oct'2023
+    In recognition of my exceptional performance and dedication, I was honored with the Performance Excellence Award. This accolade is a testament to my commitment to delivering high-quality work, my ability to exceed expectations, and my continuous efforts to improve and innovate. Receiving this award has further motivated me to continue striving for excellence in my professional endeavors.
