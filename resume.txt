@@ -17,7 +17,7 @@ Profile Summary:
   Currently expanding proficiency in backend technologies like Node.js, Express.js, and MongoDB, while also delving into Go. Continuously striving to enhance skill sets and stay abreast of emerging trends in frontend development to deliver innovative solutions.
 
 Education: 
-  Computer Applications, Business Accounting And Multilingual DTP Diploma - National Institute Of Electronics & Information Technology
+  Computer Applications Business Accounting And Multilingual DTP Diploma - National Institute Of Electronics & Information Technology
   Class XIIth - CBSE
   Class Xth - CBSE
 
